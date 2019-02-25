@@ -1,0 +1,13 @@
+.name, .lastName, .location, .email, .phone{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+
+.btn{
+    border: 2px solid greenyellow;
+}
+
+.box{
+    margin-top: 40px;
+}
